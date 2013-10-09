@@ -6,7 +6,7 @@ from math import radians, cos, sin, tan
 #2D data points
 real = []
 
-#Division by axis for 3D plot
+#Division by axis for 2D plot
 x, y = [], []
 
 
